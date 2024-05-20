@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://hdscreen.online/</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/movies/popular</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/movies/top_rated</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/movies/upcoming</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/movies/genre</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/movies/year/2020</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/shows/popular</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/shows/top_rated</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/shows/airing_today</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/shows/genre</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/shows/year/2021</loc>
+		</url>
+		<url>
+			<loc>https://hdscreen.online/questions</loc>
+		</url>
+	</urlset>
+
+
